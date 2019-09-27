@@ -1,0 +1,7 @@
+apiVersion: spark.tongdun.com/v1
+kind: SparkService
+metadata:
+  name: example-sparkservice
+spec:
+  # Add fields here
+  size: 3
